@@ -5,6 +5,7 @@ This project is based on Web Development And its Applications. The main objectiv
 of this project is to learn the implementation of Front-end Languages Like HTML,
 CSS, JS, Bootstrap. Back-end PHP using server XAAMP and how to retrieve and
 manage Data from MySQL Database.
+new line is written.
 #
 Engineering Students Nowadays do not have the habit of remembering their marks of the previous semester, this can actually cause a huge problem to students in their final year of Engineering in order to solve this, we here at storemyresults.com provide a platform to students/Graduates to store their results of the previous or current semester thereby making it comfortable to access results and marks as accessible whenever required.
 # WHY STORE MY RESULTS
